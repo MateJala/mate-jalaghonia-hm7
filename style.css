@@ -1,0 +1,20 @@
+.logo{
+    height: 48px;
+    width: 33px;
+    position: absolute;
+    top: 24px;
+    left: 132px;
+}
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 70px;
+    height: 84px;
+
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 19.55px;
+    color: #636060;
+}
